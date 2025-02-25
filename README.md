@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Schmiedium
 - 👀 I’m interested in computational physics, systems programming, and computer graphics
 - 🌱 I’m currently learning Rust and computational physics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the Rust CUDA project, which is being rebooted
 - 📫 How to reach me: email me at alexander.eisenschmied@gmail.com
 
 <!---
